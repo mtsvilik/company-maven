@@ -66,7 +66,7 @@ public class MainClass {
 
         Address address2 = new Address();
         address2.setCity("Minsk");
-        address2.setStreet("Esenina");
+        address2.setStreet("Yesenia");
         address2.setHouseNumber(1);
 
         Address address3 = new Address();
