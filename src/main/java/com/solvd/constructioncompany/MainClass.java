@@ -76,7 +76,7 @@ public class MainClass {
 
         Address address4 = new Address();
         address4.setCity("Minsk");
-        address4.setStreet("Kolasa");
+        address4.setStreet("Kolas");
         address4.setHouseNumber(76);
 
         Address address5 = new Address();
