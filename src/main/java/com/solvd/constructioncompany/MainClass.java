@@ -61,7 +61,7 @@ public class MainClass {
 
         Address address1 = new Address();
         address1.setCity("Minsk");
-        address1.setStreet("Kosmonavtov");
+        address1.setStreet("Cosmonaut");
         address1.setHouseNumber(12);
 
         Address address2 = new Address();
