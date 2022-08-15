@@ -61,12 +61,12 @@ public class MainClass {
 
         Address address1 = new Address();
         address1.setCity("Minsk");
-        address1.setStreet("Kosmonavtov");
+        address1.setStreet("Cosmonaut");
         address1.setHouseNumber(12);
 
         Address address2 = new Address();
         address2.setCity("Minsk");
-        address2.setStreet("Esenina");
+        address2.setStreet("Yesenia");
         address2.setHouseNumber(1);
 
         Address address3 = new Address();
